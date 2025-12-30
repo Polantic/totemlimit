@@ -41,6 +41,9 @@ You are free to use, modify, and redistribute it!
 
 ## Source
 
+Modrinth: https://modrinth.com/mod/totemlimit
 GitHub: https://github.com/Polantic/totemlimit
+YouTube: https://www.youtube.com/@polantic
 
 - Polantic :)
+
