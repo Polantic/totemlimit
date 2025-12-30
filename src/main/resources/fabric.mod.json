@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "totemlimit",
+  "version": "${version}",
+  "name": "Totem Limit",
+  "description": "Enforces a hard limit of one Totem of Undying",
+  "authors": [
+    "Polantic"
+  ],
+  "license": "MIT",
+  "icon": "assets/totemlimit/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.polantic.totemlimit.Totemlimit"
+    ]
+  },
+  "mixins": [
+    "totemlimit.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
